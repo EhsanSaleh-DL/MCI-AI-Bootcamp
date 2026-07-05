@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # ----------------------------------------------------
 # Title: Prime Factorization of an Integer
 # Author: Ehsan Saleh
@@ -45,4 +39,3 @@ if n > 1:
     ans.append(f"{n}^1")
 
 print("*".join(ans))
-
