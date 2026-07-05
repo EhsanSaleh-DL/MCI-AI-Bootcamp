@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 # ----------------------------------------------------
 # Title: Finding the Next Power of Two
 # Author: Ehsan Saleh
@@ -30,10 +24,3 @@ for m in range(109):
 # If no larger power of 2 was found, the number is at least 2^109        
 if num_2 >= 2**109:
     print('The number you entered is greater than or equal to 2^109.')
-
-
-# In[ ]:
-
-
-
-
