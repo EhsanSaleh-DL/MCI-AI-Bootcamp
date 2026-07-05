@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 # ----------------------------------------------------
 # Title: Butterfly Pattern Using Asterisks
 # Author: Ehsan Saleh
@@ -43,10 +37,3 @@ for i in range(itr-1):
     s = s-2
     x2 = "*"*s
     print(x2.center(n)+x2.center(n))
-
-
-# In[ ]:
-
-
-
-
