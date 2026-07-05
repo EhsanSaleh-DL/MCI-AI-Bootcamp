@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 # ----------------------------------------------------
 # Title: Digit Extraction and Repetition
 # Author: Ehsan Saleh
@@ -42,10 +36,3 @@ while m>10:
 for r in reversed(digits):
     print(str(r) + ':', str(r) * r)
     
-
-
-# In[ ]:
-
-
-
-
