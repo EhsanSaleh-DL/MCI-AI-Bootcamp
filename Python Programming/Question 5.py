@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 # ----------------------------------------------------
 # Title: Simple English Spell Checker
 # Author: Ehsan Saleh
@@ -66,10 +60,3 @@ for word in text.split():
     # Print the invalid word
     if wrong:
         print("\n", w, end=" ")
-
-
-# In[ ]:
-
-
-
-
